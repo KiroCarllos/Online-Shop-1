@@ -1,0 +1,2 @@
+You need to install Microsoft Project to run the .mpp file , or use the online version only if you have a MS account through this link
+https://products.office.com/en-us/project/compare-microsoft-project-management-software
